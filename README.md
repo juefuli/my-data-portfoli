@@ -11,22 +11,32 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! My name is Juefu Li and I am a grad-stuent at CMU major in Mnagement Information System. I really like data and did lots of data anlysis work from my undergraduate university.  And I also like visualizations.  So I guess you can say that I like data visualizations!
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. Understand how to choose the right charts and colors
+2. Learn how to make my data visualizations clear and effective
+3. Learn how to present complex data in a simple way.
 
-or...
 
-- List item #1
-- List item #2
-- List item #3
 
 # Portfolio
+
+This portfolio will showcase my work and progress throughout the Telling Stories with Data course.
+
+**Data Visualization Exercises**
+
+A collection of exercises focused on improving data visualization skills.
+
+**Design Critiques**
+
+My critiques and evaluations of existing data visualizations, including suggestions for improvement.
+
+**Final Project**
+
+My final project will demonstrate how data visualization and storytelling can be used to communicate meaningful insights.
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
