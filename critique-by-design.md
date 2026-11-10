@@ -5,7 +5,6 @@
 [final project II](https://juefuli.github.io/my-data-portfoli/final-project-part-two.html) |
 [final project III](https://juefuli.github.io/my-data-portfoli/final-project-part-three.html)
 
-# Title
 
 # MakeoverMonday - Global GDP Rankings Redesign
 
