@@ -44,7 +44,8 @@ My main goal was to improve clarity, readability, and comparison.
 
 ### Initial Sketch
 
-[Add your actual sketch or initial Tableau design screenshot here]
+<img width="2074" height="1134" alt="image" src="https://github.com/user-attachments/assets/a2a642d3-b645-43ea-897d-b272e99330ce" />
+
 
 ## Step Four: Test the Solution
 
