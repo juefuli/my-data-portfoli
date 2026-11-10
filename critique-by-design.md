@@ -7,59 +7,110 @@
 [final project III](https://juefuli.github.io/my-data-portfoli/final-project-part-three.html)
 
 # Title
-Text here...
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
+# MakeoverMonday - Global GDP Rankings Redesign
 
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+## Step One: Original Visualization
 
-## Step one: the visualization
+**Original Visualization:** [GDP by Country - Statistics of the World](https://statisticsoftheworld.com/gdp-by-country)
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+**Dataset:** MakeoverMonday 2026 Week 34 - Global GDP Ranks
 
-## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+**Data Source:** International Monetary Fund (IMF)
 
-## Step three: Sketch a solution
+I chose this visualization because I am interested in the global economy and GDP differences between countries. The original visualization shows the GDP rankings, values, and percentages of world GDP in a table.
 
-## Step four: Test the solution
+I think this is an interesting topic because viewers can easily identify the largest economies. However, I wanted to see if a different type of chart could make the differences between countries easier to understand.
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+## Step Two: Critique
 
-Questions to ask (modify these for your own interviews): 
+I used Stephen Few's Data Visualization Effectiveness Profile to evaluate the original visualization.
 
-- Can you tell me what you think this is?
+I think the original table is useful because it clearly shows the GDP rankings and specific values. Viewers can quickly find the largest economies and their share of world GDP.
 
-- Can you describe to me what this is telling you?
+However, I think it is difficult to directly compare GDP differences between countries because it mainly shows numbers. Although the table is easy to understand, it is not very visually appealing or engaging.
 
-- Is there anything you find surprising or confusing?
+I think the primary audience is the general public and people interested in the global economy. The table is useful for finding information, but a chart could make comparisons easier.
 
-- Who do you think is the intended audience for this?
+Stephen Few's method helped me consider different aspects of the visualization, such as usefulness, clarity, and aesthetics. Compared with Good Charts, I think it provides more specific evaluation categories, but the numerical scores can still be subjective.
 
-- Is there anything you would change or do differently?
+Based on this critique, I decided to use a horizontal bar chart for my redesign.
 
-Results: 
+## Step Three: Sketch a Solution
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+My initial idea was to use a horizontal bar chart instead of a table.
 
+I wanted to show countries from highest to lowest GDP so viewers could directly compare their economic sizes. I also planned to include the actual GDP values and use different colors to make the visualization easier to understand.
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+My main goal was to improve clarity, readability, and comparison.
 
-Synthesis: 
+### Initial Sketch
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+[Add your actual sketch or initial Tableau design screenshot here]
 
-## Step five: build the solution
+## Step Four: Test the Solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+For this step, I prepared several questions to collect feedback from other students.
+
+1. What do you think this visualization is showing?
+2. Is it easy to compare GDP between countries?
+3. Is anything confusing or unclear?
+4. What would you change about this design?
+
+### User Feedback
+
+**Participant 1:**
+
+[Add actual feedback here]
+
+**Participant 2:**
+
+[Add actual feedback here]
+
+### What I Learned
+
+[Summarize the similarities and differences in the feedback.]
+
+### Changes Based on Feedback
+
+[Explain what you actually changed based on the feedback.]
+
+## Step Five: Final Redesign
+
+For my final redesign, I used Tableau to create a horizontal bar chart showing the top 12 economies ranked by GDP.
+
+I included the GDP values in trillion USD and the percentage of world GDP next to each bar. I also used different shades of blue to show the GDP rankings, with darker colors representing higher-ranked countries.
+
+Compared with the original table, I think my redesign makes it easier to see the GDP differences between countries. For example, viewers can quickly notice the large difference between the United States, China, and other economies.
+
+I wanted to keep the chart simple while making the information more visually appealing and easier to understand.
+
+### Final Tableau Visualization
+
+<iframe
+  src="https://public.tableau.com/views/GlobalGDPRankings2026-Redesign/Sheet1?:embed=yes&amp;:showVizHome=no&amp;:toolbar=yes"
+  width="100%"
+  height="750"
+  style="border: none;"
+  allowfullscreen>
+</iframe>
+
+[View My Visualization on Tableau Public](https://public.tableau.com/views/GlobalGDPRankings2026-Redesign/Sheet1)
+
+## Reflection
+
+Through this assignment, I learned that choosing the right chart type can make a big difference in how people understand data.
+
+The original table provides useful information, but the horizontal bar chart makes GDP comparisons easier. I also learned that adding values, percentages, and colors can improve the readability of a visualization.
 
 ## References
-_List any references you used here._
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+- [Original Visualization - Statistics of the World](https://statisticsoftheworld.com/gdp-by-country)
+- [MakeoverMonday](https://makeovermonday.co.uk/data/)
+- [International Monetary Fund](https://www.imf.org/en/Data)
+- Dataset: MakeoverMonday 2026 Week 34, August 24, 2026
+- Tableau Public
 
+## AI Acknowledgements
+
+I used ChatGPT to help me understand the assignment instructions, discuss redesign ideas, learn Tableau operations, and edit my written explanations. I created the visualization using Tableau and reviewed the final design myself.
