@@ -1,4 +1,10 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
+[home page](https://juefuli.github.io/my-data-portfoli/) |
+[data viz examples](https://juefuli.github.io/my-data-portfoli/dataviz-examples.html) |
+[critique by design](https://juefuli.github.io/my-data-portfoli/critique-by-design.html) |
+[final project I](https://juefuli.github.io/my-data-portfoli/final-project-part-one.html) |
+[final project II](https://juefuli.github.io/my-data-portfoli/final-project-part-two.html) |
+[final project III](https://juefuli.github.io/my-data-portfoli/final-project-part-three.html)
 
 # Title
 Text here...
