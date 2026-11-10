@@ -1,4 +1,3 @@
-
 [home page](https://juefuli.github.io/my-data-portfoli/) |
 [data viz examples](https://juefuli.github.io/my-data-portfoli/dataviz-examples.html) |
 [critique by design](https://juefuli.github.io/my-data-portfoli/critique-by-design.html) |
