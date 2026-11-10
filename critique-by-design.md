@@ -60,19 +60,19 @@ For this step, I prepared several questions to collect feedback from other stude
 
 **Participant 1:**
 
-[Add actual feedback here]
+The first student thought that my visualization included too many countries, which made it a little difficult to read. The student suggested showing fewer countries and making the title more specific.
 
 **Participant 2:**
 
-[Add actual feedback here]
+The second student suggested adding more data labels because the visualization did not provide enough detailed information. It was difficult to know the exact GDP values by only looking at the bars.
 
 ### What I Learned
 
-[Summarize the similarities and differences in the feedback.]
+Both students thought that the visualization could be more clear and easier to understand. I learned that showing too much information is not always better, and adding important data labels can help viewers understand the chart.
 
 ### Changes Based on Feedback
 
-[Explain what you actually changed based on the feedback.]
+Based on their feedback, I reduced the number of countries to the Top 12 and changed the title to "Top 12 Economies by GDP in 2026." I also added the GDP values in trillion USD and the percentage of world GDP next to each bar. These changes made my visualization more clear and easier to compare.
 
 ## Step Five: Final Redesign
 
@@ -112,4 +112,4 @@ The original table provides useful information, but the horizontal bar chart mak
 
 ## AI Acknowledgements
 
-I used ChatGPT to help me understand the assignment instructions, discuss redesign ideas, learn Tableau operations, and edit my written explanations. I created the visualization using Tableau and reviewed the final design myself.
+I used ChatGPT to help me understand the assignment instructions, discuss redesign ideas, learn Tableau operations, and improve the grammar of my written explanations. I created the visualization using Tableau and reviewed the final design myself.
