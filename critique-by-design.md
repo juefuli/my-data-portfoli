@@ -62,9 +62,9 @@ For this step, I prepared several questions to collect feedback from other stude
 
 The first student thought that my visualization included too many countries, which made it a little difficult to read. The student suggested showing fewer countries and making the title more specific.
 
-**Participant 2:**
+**Participant 2 and 3:**
 
-The second student suggested adding more data labels because the visualization did not provide enough detailed information. It was difficult to know the exact GDP values by only looking at the bars.
+The second and third student suggested adding more data labels because the visualization did not provide enough detailed information. It was difficult to know the exact GDP values by only looking at the bars.
 
 ### What I Learned
 
