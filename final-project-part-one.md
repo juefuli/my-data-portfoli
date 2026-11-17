@@ -4,9 +4,12 @@
 
 
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+# Project Title
+Is the Rising Cost of College Worth It?
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
+1. High-Level Summary
+In past decades, the education cost of United States is always a crucial question which many family concern. With change of the tuition fees, many student face a important question which is more tuition really means more graduate earning? Although, more tuition might means more education resource and opportunities, but high tuition do not mean abusolutly better financial return. This project hope though data visualization, study the 
  
 Text here...
 
