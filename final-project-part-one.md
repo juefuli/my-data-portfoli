@@ -9,13 +9,18 @@ Is the Rising Cost of College Worth It?
 
 # Outline
 1. High-Level Summary
-In past decades, the education cost of United States is always a crucial question which many family concern. With change of the tuition fees, many student face a important question which is more tuition really means more graduate earning? Although, more tuition might means more education resource and opportunities, but high tuition do not mean abusolutly better financial return. This project hope though data visualization, study the 
- 
-Text here...
+In past decades, the education cost of United States is always a crucial question which many family concern. With change of the tuition fees, many student face a important question which is more tuition really means more graduate earning? Although, more tuition might means more education resource and opportunities, but high tuition do not mean abusolutly better financial return. This project hope though data visualization, study the relationship between college tuition and graduate earnings, helping readers better understand the costs and potential financial benefits of higher education.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+The target audience for this project, is the student and student family who are making decisions about higher education. I plan to use the College Scorecard data which is public from U.S. Department of Education, study 20 - 30 public four-year universities. First, I will analyze tuition trends over approximately the past decade. Then, I will compare tuition costs with median earnings after graduation to explore whether there is a relationship between the two. Through interactive data visualizations, I hope to highlight differences across universities and help readers understand why both education costs and future earnings should be considered when choosing a college.
 
-Text here...
+
+2. Project Structure (Story Arc)
+Section 1: Introduction — Is College Becoming More Expensive?
+The story fisrt introduce the background about the cost issue about United States' college education cost, and the economic pressure normal familly faces. Draw the audience attention about value of higher education.
+
+Section 2: The Rising Cost of College
+I plan to use Line Chart to demonstrate the College tuition change past decades. I will examine overall tuition trends and differences in tuition growth across institutions to let the audience have a basic understand about the background.
+
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
