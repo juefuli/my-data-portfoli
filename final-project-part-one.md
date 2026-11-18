@@ -40,7 +40,14 @@ Finally, I will summarize the key findings and return to the original research q
 
 ## Initial sketches
 
+### Sketch 1: Tuition Trends
+![Tuition Trends](幻灯片1.png)
 
+### Sketch 2: Tuition vs. Graduate Earnings
+![Tuition vs. Graduate Earnings](幻灯片2.png)
+
+### Sketch 3: University Comparison
+![University Comparison](幻灯片3.png)
 
 # The Data
 
