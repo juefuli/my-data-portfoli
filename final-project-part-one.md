@@ -4,26 +4,26 @@
 
 
 # Project Title
-Is the Rising Cost of College Worth It?
+**Is the Rising Cost of College Worth It?**
 
 # Outline
 
-High-Level Summary
+**High-Level Summary**
 
-In past decades, the education cost of United States is always a crucial question which many family concern. With change of the tuition fees, many student face a important question which is more tuition really means more graduate earning? Although, more tuition might means more education resource and opportunities, but high tuition do not mean abusolutly better financial return. This project hope though data visualization, study the relationship between college tuition and graduate earnings, helping readers better understand the costs and potential financial benefits of higher education.
+Over the past decade, the cost of higher education in the United States has become an important concern for many students and families. As tuition fees continue to change, many students face an important question: Does paying higher tuition mean earning more after graduation? Although more expensive universities may offer better educational resources and career opportunities, higher tuition does not necessarily guarantee better financial returns. This project aims to use data visualization to explore the relationship between college tuition and graduate earnings, helping readers better understand the costs and potential financial benefits of higher education.
 
-The target audience for this project, is the student and student family who are making decisions about higher education. I plan to use the College Scorecard data which is public from U.S. Department of Education, study 20 - 30 public four-year universities. First, I will analyze tuition trends over approximately the past decade. Then, I will compare tuition costs with median earnings after graduation to explore whether there is a relationship between the two. Through interactive data visualizations, I hope to highlight differences across universities and help readers understand why both education costs and future earnings should be considered when choosing a college.
+The target audience for this project is prospective college students and their families who are making decisions about higher education. I plan to use publicly available College Scorecard data from the U.S. Department of Education to examine approximately 20–30 public four-year universities. First, I will analyze tuition trends over approximately the past decade. Then, I will compare tuition costs with median earnings after graduation to explore whether there is a relationship between the two. Through interactive data visualizations, I hope to highlight differences across universities and help readers understand why both education costs and future earnings should be considered when choosing a college.
 
 
-Project Structure (Story Arc)
+**Project Structure (Story Arc)**
 
 Section 1: Introduction — Is College Becoming More Expensive?
 
-The story fisrt introduce the background about the cost issue about United States' college education cost, and the economic pressure normal familly faces. Draw the audience attention about value of higher education.
+The story will first introduce the background of college education costs in the United States and the financial pressure faced by many families. It will raise the central question of whether higher tuition is associated with higher graduate earnings and draw the audience's attention to the financial value of higher education.
 
 Section 2: The Rising Cost of College
 
-I plan to use Line Chart to demonstrate the College tuition change past decades. I will examine overall tuition trends and differences in tuition growth across institutions to let the audience have a basic understand about the background.
+I plan to use a line chart to illustrate changes in college tuition over approximately the past decade. I will examine overall tuition trends and differences in tuition growth across institutions to help the audience understand the background of the issue.
 
 Section 3: Tuition vs. Graduate Earnings
 
@@ -41,13 +41,19 @@ Finally, I will summarize the key findings and return to the original research q
 ## Initial sketches
 
 ### Sketch 1: Tuition Trends
+This sketch shows the planned line chart illustrating changes in college tuition over time.
 ![Tuition Trends](幻灯片1.PNG)
 
 ### Sketch 2: Tuition vs. Graduate Earnings
+This sketch shows the planned scatter plot exploring the relationship between tuition costs and graduate earnings.
 ![Tuition vs. Graduate Earnings](幻灯片2.PNG)
 
 ### Sketch 3: University Comparison
+This sketch shows the planned bar chart comparing tuition costs and earnings across selected universities.
 ![University Comparison](幻灯片3.PNG)
+
+Note: These sketches illustrate the proposed visualizations and do not represent final analytical findings.
+
 # The Data
 
 ### Data Sources
