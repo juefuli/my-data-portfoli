@@ -30,7 +30,16 @@ I want the audience to see whether universities with higher tuition also tend to
 
 **Visualization 1: Tuition vs. Graduate Earnings**
 
-Tableau Public Link: [Add Tableau link here]
+<iframe
+  src="https://public.tableau.com/views/CollegeTuitionvsGraduateEarnings/Sheet1?:showVizHome=no&amp;:embed=yes"
+  width="100%"
+  height="700"
+  style="border: none;"
+  loading="lazy"
+  title="Tuition vs Graduate Earnings">
+</iframe>
+
+[Open interactive chart](https://public.tableau.com/views/CollegeTuitionvsGraduateEarnings/Sheet1)
 
 **Section 3: Net Price vs. Graduate Earnings**
 
@@ -41,8 +50,16 @@ I created another scatter plot to compare net price with median earnings. I want
 This part is important because students should not only consider the tuition shown by universities. Financial aid and other costs can also affect how much they need to pay.
 
 **Visualization 2: Net Price vs. Graduate Earnings**
+<iframe
+  src="https://public.tableau.com/views/CollegeTuitionvsGraduateEarnings/Sheet12?:showVizHome=no&amp;:embed=yes"
+  width="100%"
+  height="700"
+  style="border: none;"
+  loading="lazy"
+  title="Net Price vs Graduate Earnings">
+</iframe>
 
-Tableau Public Link: [Add Tableau link here]
+[Open interactive chart](https://public.tableau.com/views/CollegeTuitionvsGraduateEarnings/Sheet12)
 
 **Section 4: University Comparison**
 
@@ -54,7 +71,16 @@ This chart will help the audience compare different schools and see whether more
 
 **Visualization 3: Graduate Earnings by Tuition Band**
 
-Tableau Public Link: [Add Tableau link here]
+<iframe
+  src="https://public.tableau.com/views/CollegeTuitionvsGraduateEarnings/Sheet2?:showVizHome=no&amp;:embed=yes"
+  width="100%"
+  height="1050"
+  style="border: none;"
+  loading="lazy"
+  title="Graduate Earnings by Tuition Band">
+</iframe>
+
+[Open interactive chart](https://public.tableau.com/views/CollegeTuitionvsGraduateEarnings/Sheet2)
 
 **Section 5: Conclusion**
 
