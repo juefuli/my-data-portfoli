@@ -2,7 +2,51 @@
 
 # Wireframes / storyboards
 
-**Project Title: Is the Rising Cost of College Worth It?**
+
+# Is the Rising Cost of College Worth It?
+
+![College Project Cover](graph1.png)
+
+**Looking Beyond Tuition to Understand the Financial Value of Higher Education**
+
+## Introduction
+
+When students choose a university, tuition is usually one of the first things they consider. But does paying more for college really mean getting a better financial return after graduation?
+
+This is a question I am interested in because college is a big financial decision for many students and families. A more expensive university may offer better resources and opportunities, but this does not always mean its graduates will earn more money.
+
+For this project, I used College Scorecard data from the U.S. Department of Education to explore the relationship between college costs and graduate earnings. I started with 30 selected public universities to compare their tuition and earnings. After receiving feedback from Part I, I also decided to include average net price, since tuition alone does not show the full cost of attending college.
+
+My goal is to help students understand what they should consider when comparing universities, rather than simply assuming that a higher tuition means a better education or higher future earnings.
+
+## Project at a Glance
+
+| | |
+|---|---|
+| **Main Question** | Does paying more for college mean earning more after graduation? |
+| **Target Audience** | Prospective college students and their families |
+| **Data Source** | U.S. Department of Education — College Scorecard |
+| **Current Sample** | 30 selected public universities (exploratory sample) |
+| **Main Tools** | Tableau Public and GitHub Pages |
+
+## How the Story Will Develop
+
+**1. Tuition vs. Graduate Earnings**
+
+First, I will compare tuition and graduate earnings to see whether more expensive universities tend to have higher earnings outcomes.
+
+**2. Looking Beyond Tuition**
+
+Next, I will introduce average net price and explain why financial aid and other college costs are important when comparing universities.
+
+**3. Comparing Different Universities**
+
+Finally, I will compare graduate earnings across universities with different tuition levels and discuss what these differences might mean for students.
+
+---
+
+# Wireframes / storyboards
+
 
 **Story Overview**
 
