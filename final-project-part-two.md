@@ -200,7 +200,27 @@ Finally, I will compare their feedback to identify common suggestions and differ
 
 ## Interview findings
 
-*This section will be completed after the three interviews.*
+I showed my three Tableau visualizations to my classmates and collected feedback about the data, charts, and overall story.
+
+### Interview Results
+
+| Questions | Interview 1 | Interview 2 | Interview 3 |
+|-----------|-------------|-------------|-------------|
+| Main Concern | University selection | Scatter plots and net price | Bar chart colors |
+| Feedback | The 30 universities seem unfamiliar, and it is unclear how they were selected. The sample may not represent universities in the United States very well. | The trend lines do not seem to fit the scattered points very well. Also, the purpose of adding net price is not clear when the main topic is tuition and earnings. | Using only two colors makes it difficult to see differences between tuition groups. Most universities look the same. |
+| Suggested Improvement | Explain how the universities were selected and consider using a larger or more representative sample. | Check the trend lines and explain why net price is included in the analysis. | Use more distinguishable colors to show the differences between tuition groups. |
+
+### Summary of Interview Findings
+
+From the feedback, I noticed several problems with my current visualizations.
+
+First, the selection of universities may affect how readers understand the results. I need to explain why I chose these 30 universities and whether they can represent a larger group of universities.
+
+Second, the scatter plots need some improvements. The points are quite spread out, so the trend lines may not clearly show the relationship between costs and earnings. I also need to better explain why I included net price in my project.
+
+Finally, the bar chart needs a clearer color design. Although I changed the original five colors into two colors to make the chart simpler, this made it harder to compare different tuition groups.
+
+Overall, the feedback helped me realize that I should focus more on data selection, chart clarity, and explaining the purpose of each visualization.
 
 **Interview Participants**
 
@@ -226,16 +246,16 @@ Finally, I will compare their feedback to identify common suggestions and differ
 
 # Identified changes for Part III
 
-Based on the feedback from Part I, I have already made some changes to my original project.
+Based on the feedback from Part I and my user research, I plan to make several improvements in Part III.
 
-First, I added average net price to the analysis because tuition alone does not fully represent the cost of attending college.
+| Research Synthesis | Anticipated Changes for Part III |
+|--------------------|----------------------------------|
+| Some classmates questioned why I selected these 30 universities and felt that many schools were unfamiliar. | I will explain my university selection process and consider using a larger or more representative sample. |
+| The trend lines in the scatter plots do not seem to fit the data points very well. | I will check how well the trend lines fit the data and consider removing them if they are misleading. |
+| The reason for including average net price was not clear. | I will add a short explanation of the difference between tuition and net price before the second visualization. |
+| The two-color design makes it difficult to compare different tuition groups. | I will try using different shades of the same color for Q1 to Q5, so readers can see the differences more clearly. |
 
-Second, I adjusted my story to focus more on how students can use financial information when comparing universities, instead of only showing the relationship between tuition and earnings.
-
-Third, I changed the colors of my bar chart. Originally, I used five different colors for tuition groups, but I thought it looked too complicated. I changed it to two colors to make the chart easier to read.
-
-For Part III, I also plan to make further changes based on the feedback from my interviews.
-
+For Part III, I want to make my story easier to understand. I will focus on improving the data selection and making each chart more useful to the audience. I also want to make sure that every visualization connects to my main research question.
 **Planned Changes Based on User Research**
 
 | Research Synthesis | Anticipated Changes for Part III |
