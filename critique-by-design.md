@@ -1,9 +1,6 @@
-[home page](https://juefuli.github.io/my-data-portfoli/) |
-[data viz examples](https://juefuli.github.io/my-data-portfoli/dataviz-examples.html) |
-[critique by design](https://juefuli.github.io/my-data-portfoli/critique-by-design.html) |
-[final project I](https://juefuli.github.io/my-data-portfoli/final-project-part-one.html) |
-[final project II](https://juefuli.github.io/my-data-portfoli/final-project-part-two.html) |
-[final project III](https://juefuli.github.io/my-data-portfoli/final-project-part-three.html)
+
+| [home page](https://juefuli.github.io/my-data-portfoli/) | [data viz examples](https://juefuli.github.io/my-data-portfoli/dataviz-examples.html) | [critique by design](https://juefuli.github.io/my-data-portfoli/critique-by-design.html) | [final project I](https://juefuli.github.io/my-data-portfoli/final-project-part-one.html) | [final project II](https://juefuli.github.io/my-data-portfoli/final-project-part-two-site.html) | [final project III](https://juefuli.github.io/my-data-portfoli/final-project-part-three.html) |
+
 
 
 # MakeoverMonday - Global GDP Rankings Redesign
